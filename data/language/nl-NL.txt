@@ -22,7 +22,6 @@ STR_0020    :Kabelbaan
 STR_0021    :Stalen schroefachtbaan
 STR_0022    :Doolhof
 STR_0023    :Spiraalglijbaan
-STR_0024    :Go-karts
 STR_0025    :Boomstamattractie
 STR_0026    :Wildwaterbaan
 STR_0027    :Botsauto's
@@ -1800,7 +1799,7 @@ STR_1796    :Is defect en moet worden gerepareerd
 STR_1797    :Deze optie kan niet worden aangepast bij deze attractie
 STR_1798    :Draaikolk
 STR_1799    :{POP16}{POP16}{POP16}{POP16}{POP16}{CURRENCY2DP}
-STR_1800    :Noodstap
+STR_1800    :Noodstop
 STR_1801    :Veiligheidsbeugel gaat niet open
 STR_1802    :Veiligheidsbeugel gaat niet dicht
 STR_1803    :Deuren gaan niet open
